@@ -1,4 +1,4 @@
-package Metodo_Com_Parametro;
+package Metodos.Metodo_Com_Parametro;
 public class Carro{
     String marca;
     String modelo;

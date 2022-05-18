@@ -1,4 +1,4 @@
-package Metodo_Simples;
+package Metodos.Metodo_Simples;
 public class Carro{
     String marca;
     String modelo;
