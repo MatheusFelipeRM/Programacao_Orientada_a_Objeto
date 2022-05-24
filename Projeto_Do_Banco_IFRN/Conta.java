@@ -37,4 +37,9 @@ public class Conta {
         return saldo;
     }
 
+    public double depositar(double v){
+        saldo =+ v;
+        return saldo;
+    }
+
 }
