@@ -3,6 +3,7 @@ package Relacionamento;
 public class Contato {
     private String nome;
     private String telefone;
+    private Endereco endereco;
     
 
     
@@ -20,6 +21,12 @@ public class Contato {
     }
     public void setTelefone(String telefone) {
         this.telefone = telefone;
+    }
+    public Endereco getEndereco() {
+        return endereco;
+    }
+    public void setEndereco(Endereco endereco) {
+        this.endereco = endereco;
     }
 
 }
